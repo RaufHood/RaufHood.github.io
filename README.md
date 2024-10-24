@@ -6,3 +6,7 @@ Welcome to my Github! I am Rauf, I am passionate about AI, in particular in Comp
 
 ![Code Available here]( https://github.com/RaufHood/Brain-hemorrhage-predictor)
 
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/RaufHood/RaufHood.github.io/blob/master/metrics_ivh.png" alt="Performance metrics of the the hemorrhage prediction model" style="width: 300px;  margin-right: 20px;">
+  <p>Performance metrics of the the hemorrhage prediction mode.</p>
+</div>
